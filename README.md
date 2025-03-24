@@ -1,1 +1,2 @@
-A high-performance real-time object detection system utilizing [framework/model] to accurately identify and classify objects in images and video streams. Optimized for speed and efficiency.
+# Real-Time Object Detection
+A fast and accurate object detection system using [framework/model] to identify and classify objects in live video or images. It processes data in real-time, making it useful for security, automation, and smart applications. 
